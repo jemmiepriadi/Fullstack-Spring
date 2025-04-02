@@ -11,4 +11,4 @@ WORKDIR /app
 COPY --from=build /app/target/*.jar app.jar
 ENV PORT 8081
 EXPOSE 8081
-CMD ["java", "-jar","-Xmx1024M","-Dserver.port=${PORT}", "app.jar"]
+CMD ["java", "-jar","-Xmx1024M","-Dserver.port=8081", "app.jar"]
