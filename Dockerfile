@@ -8,7 +8,7 @@ RUN mvn clean install -DskipTests
 
 
 # Docker Build Stage
-FROM openjdk:8-jdk-alpine
+FROM maven:3.8.6-eclipse-temurin-17
 
 COPY --from=build /opt/app/target/*.jar app.jar
 
