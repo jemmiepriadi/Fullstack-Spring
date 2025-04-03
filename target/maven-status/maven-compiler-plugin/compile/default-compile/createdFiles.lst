@@ -1,0 +1,13 @@
+com\example\fullstack_spring\repos\ProductRepository.class
+com\example\fullstack_spring\repos\CustomerRepository.class
+com\example\fullstack_spring\entities\Customer.class
+com\example\fullstack_spring\controller\CustomerController.class
+com\example\fullstack_spring\entities\Product.class
+com\example\fullstack_spring\repos\OrderRepository.class
+com\example\fullstack_spring\services\CustomerServices.class
+com\example\fullstack_spring\services\OrderServices.class
+com\example\fullstack_spring\services\ProductServices.class
+com\example\fullstack_spring\controller\OrderController.class
+com\example\fullstack_spring\controller\ProductController.class
+com\example\fullstack_spring\entities\Order.class
+com\example\fullstack_spring\FullstackSpringApplication.class

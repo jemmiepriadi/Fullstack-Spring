@@ -1,0 +1,13 @@
+D:\Projects\fullstack-spring\src\main\java\com\example\fullstack_spring\controller\CustomerController.java
+D:\Projects\fullstack-spring\src\main\java\com\example\fullstack_spring\controller\OrderController.java
+D:\Projects\fullstack-spring\src\main\java\com\example\fullstack_spring\controller\ProductController.java
+D:\Projects\fullstack-spring\src\main\java\com\example\fullstack_spring\entities\Customer.java
+D:\Projects\fullstack-spring\src\main\java\com\example\fullstack_spring\entities\Order.java
+D:\Projects\fullstack-spring\src\main\java\com\example\fullstack_spring\entities\Product.java
+D:\Projects\fullstack-spring\src\main\java\com\example\fullstack_spring\FullstackSpringApplication.java
+D:\Projects\fullstack-spring\src\main\java\com\example\fullstack_spring\repos\CustomerRepository.java
+D:\Projects\fullstack-spring\src\main\java\com\example\fullstack_spring\repos\OrderRepository.java
+D:\Projects\fullstack-spring\src\main\java\com\example\fullstack_spring\repos\ProductRepository.java
+D:\Projects\fullstack-spring\src\main\java\com\example\fullstack_spring\services\CustomerServices.java
+D:\Projects\fullstack-spring\src\main\java\com\example\fullstack_spring\services\OrderServices.java
+D:\Projects\fullstack-spring\src\main\java\com\example\fullstack_spring\services\ProductServices.java
